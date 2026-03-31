@@ -32,12 +32,12 @@ coverage/
 
 # Exclude api-gateway from first commit
 #api-gateway/
-appointment-service/
-document-service/
-inquiry-service/
-property-service/
-user-service/
-valuation-service/
+#appointment-service/
+#document-service/
+#inquiry-service/
+#property-service/
+#user-service/
+#valuation-service/
 
 # Misc
 *.tmp
