@@ -37,7 +37,7 @@ coverage/
 #inquiry-service/
 #property-service/
 #user-service/
-valuation-service/
+#valuation-service/
 
 # Misc
 *.tmp
