@@ -36,7 +36,7 @@ coverage/
 #document-service/
 #inquiry-service/
 #property-service/
-user-service/
+#user-service/
 valuation-service/
 
 # Misc
