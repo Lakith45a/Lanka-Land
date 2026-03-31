@@ -34,7 +34,7 @@ coverage/
 #api-gateway/
 appointment-service/
 document-service/
-inquiry-service/
+#inquiry-service/
 property-service/
 user-service/
 valuation-service/
